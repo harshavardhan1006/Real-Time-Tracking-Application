@@ -1,4 +1,4 @@
-# Real-Time Tracking App
+# Real-Time Tracking Application
 
 A real-time location tracking web application built using **Node.js**, **Express.js**, **Socket.IO**, and **Leaflet.js**. The application enables multiple users to share and view live geographic locations on an interactive map in real time.
 
